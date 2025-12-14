@@ -32,13 +32,13 @@ jobs:
 
       - name: Build Quartz
         run: |
-          npx quartz build -d docs
+          npx quartz build
           ls -la docs
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs
+          path: public
 
   deploy:
     needs: build
