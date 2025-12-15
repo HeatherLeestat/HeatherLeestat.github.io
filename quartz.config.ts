@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   siteUrl: "https://heatherleestat.github.io",
-  baseUrl: "/",
+  baseUrl: "",
   configuration: {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
