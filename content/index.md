@@ -19,7 +19,7 @@ Obsidian으로 작성하고, Quartz로 웹에 공개하고 있습니다.
 
 ## 처음 오셨다면 여기부터 보세요
 
-- 📘 [[01 Public/index|공개 노트 모음]]
+- 📘 [[Why I started writing publicly|첫 공개 글]]
 - 🧩 [[content/01 Life Log/TEST|첫 공개 글]]
 - 🌱 앞으로 꾸준히 업데이트됩니다
 
