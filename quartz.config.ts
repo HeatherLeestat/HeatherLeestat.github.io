@@ -7,6 +7,8 @@ import * as Plugin from "./quartz/plugins"
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
+  siteUrl: "https://heatherleestat.github.io",
+  baseUrl: "/",
   configuration: {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
@@ -16,7 +18,6 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
