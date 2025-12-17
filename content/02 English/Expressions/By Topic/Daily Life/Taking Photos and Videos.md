@@ -46,18 +46,18 @@
 
 ## 4️⃣ “taking ~ of ~” 자기 맞춤 연습표
 
-| No | 구조 | 예시 | 직접 바꿔보기 |
-|----|------|------|----------------|
-| 1 | I like taking pictures of [대상]. | I like taking pictures of my breakfast. | I like taking pictures of ______. |
-| 2 | I enjoy taking photos of [대상]. | I enjoy taking photos of street art. | I enjoy taking photos of ______. |
-| 3 | I often take videos of [대상]. | I often take videos of my dog playing. | I often take videos of ______. |
-| 4 | She takes pictures of [대상]. | She takes pictures of flowers in the park. | She takes pictures of ______. |
-| 5 | He likes taking photos of [대상]. | He likes taking photos of old buildings. | He likes taking photos of ______. |
-| 6 | We enjoy taking pictures of [대상]. | We enjoy taking pictures of the mountains. | We enjoy taking pictures of ______. |
-| 7 | I like taking pictures of [대상] at [장소/시간]. | I like taking pictures of my friends at parties. | I like taking pictures of ______ at ______. |
-| 8 | She is taking videos of [대상]. | She is taking videos of the festival parade. | She is taking videos of ______. |
-| 9 | I often take pictures of [대상] when [상황]. | I often take pictures of my travel destinations. | I often take pictures of ______ when ______. |
-| 10 | He enjoys taking photos of [대상] at [장소]. | He enjoys taking photos of sunsets at the beach. | He enjoys taking photos of ______ at ______. |
+| No  | 구조                                         | 예시                                               | 직접 바꿔보기                                      |
+| --- | ------------------------------------------ | ------------------------------------------------ | -------------------------------------------- |
+| 1   | I like taking pictures of [대상].            | I like taking pictures of my breakfast.          | I like taking pictures of ______.            |
+| 2   | I enjoy taking photos of [대상].             | I enjoy taking photos of street art.             | I enjoy taking photos of ______.             |
+| 3   | I often take videos of [대상].               | I often take videos of my dog playing.           | I often take videos of ______.               |
+| 4   | She takes pictures of [대상].                | She takes pictures of flowers in the park.       | She takes pictures of ______.                |
+| 5   | He likes taking photos of [대상].            | He likes taking photos of old buildings.         | He likes taking photos of ______.            |
+| 6   | We enjoy taking pictures of [대상].          | We enjoy taking pictures of the mountains.       | We enjoy taking pictures of ______.          |
+| 7   | I like taking pictures of [대상] at [장소/시간]. | I like taking pictures of my friends at parties. | I like taking pictures of ______ at ______.  |
+| 8   | She is taking videos of [대상].              | She is taking videos of the festival parade.     | She is taking videos of ______.              |
+| 9   | I often take pictures of [대상] when [상황].   | I often take pictures of my travel destinations. | I often take pictures of ______ when ______. |
+| 10  | He enjoys taking photos of [대상] at [장소].   | He enjoys taking photos of sunsets at the beach. | He enjoys taking photos of ______ at ______. |
 
 **연습 팁:**  
 1. `[대상]`, `[장소]`, `[시간]`, `[상황]`을 자신의 취미/일상으로 바꿔 문장 만들기  
